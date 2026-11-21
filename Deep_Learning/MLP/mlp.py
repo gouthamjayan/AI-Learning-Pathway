@@ -108,7 +108,7 @@ def train_pytorch_model(neural_model, train_loader, epochs=20, lr=0.001):
     neural_model.to(device)
 
     for epoch in range(1, epochs + 1):
-        neural_model.train()
+        
         running_loss = 0.0
         
         for batch_X, batch_y in train_loader:
