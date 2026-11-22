@@ -9,7 +9,7 @@ This repository is organized into two main tracks[cite: 1]:
 ### Machine Learning
 - **[Linear Regression](./Machine_Learning/Linear_Regression/README.md)** — Fitting linear relationships to predict continuous values (includes NumPy and standard implementations)[cite: 1].
 - **[Logistic Regression](./Machine_Learning/Logistic_Regression/README.md)** — Modeling probabilities and classification boundaries using linear scores and activation functions[cite: 1].
-- **[Decision Tree](./Machine_Learning/Decision_Tree_Reg.../README.md)** — Splitting feature space using threshold rules *(update folder name/link to match your exact directory)*[cite: 1].
+- **[Decision Tree](./Machine_Learning/Decision_Tree_Regression/README.md)** — Splitting feature space using threshold rules *(update folder name/link to match your exact directory)*[cite: 1].
 
 ### Deep Learning
 - **[MLP (Multi-Layer Perceptron)](./Deep_Learning/MLP/README.md)** — Dense layers, activations, and learning mechanics across Python and C++ implementations[cite: 1].
