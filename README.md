@@ -8,6 +8,6 @@ My personal notes and code as I learn machine learning and deep learning step by
 - [Decision Tree](./Machine_Learning/Decision_Tree_Regression/README.md) — Making decisions step by step using if/else splits[cite: 3].
 
 ## Deep Learning
-- [MLP](./MLP/README.md) — Stacking layers of neurons with curves to learn complex patterns[cite: 4, 5].
-- [CNN](./CNN/README.md) — Spotting patterns in images using sliding filters[cite: 6].
-- [Transformer](./Transformer_Architecture/README.md) — Letting tokens pay attention to each other across a sequence[cite: 7].
+- [MLP](./Deep_Learning/MLP/README.md) — Stacking layers of neurons with curves to learn complex patterns[cite: 4, 5].
+- [CNN](./Deep_Learning/CNN/README.md) — Spotting patterns in images using sliding filters[cite: 6].
+- [Transformer](./Deep_Learning/Transformer_Architecture/README.md) — Letting tokens pay attention to each other across a sequence[cite: 7].
